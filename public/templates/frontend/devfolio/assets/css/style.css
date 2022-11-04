@@ -90,7 +90,8 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color:  #4e4e4e;
+  ;
 }
 
 .overlay-mf {
@@ -460,7 +461,7 @@ a:hover {
 }
 
 .navbar-b.navbar-trans .nav-link, .navbar-b.navbar-reduce .nav-link {
-  color: #fff;
+  color: #9b1f9f;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -501,23 +502,23 @@ a:hover {
 }
 
 .navbar-b.navbar-trans .nav-link:before {
-  background-color: #fff;
+  background-color: #9b1f9f;
 }
 
 .navbar-b.navbar-trans .nav-link:hover {
-  color: #fff;
+  color: #9b1f9f;
 }
 
 .navbar-b.navbar-trans .show > .nav-link,
 .navbar-b.navbar-trans .active > .nav-link,
 .navbar-b.navbar-trans .nav-link.show,
 .navbar-b.navbar-trans .nav-link.active {
-  color: #fff;
+  color: #9b1f9f;
 }
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #fff;
+  background-color: #9b1f9f;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -550,7 +551,7 @@ a:hover {
 }
 
 .navbar-b .navbar-brand {
-  color: #fff;
+  color: #9b1f9f;
   font-size: 1.6rem;
   font-weight: 600;
 }
@@ -635,9 +636,9 @@ a:hover {
 # Intro Section
 --------------------------------------------------------------*/
 .intro {
-  height: 100vh;
+  height: 51vh;
   position: relative;
-  color: #fff;
+  color: #9b1f9f;
 }
 
 .intro .intro-content {
@@ -646,7 +647,7 @@ a:hover {
 }
 
 .intro .overlay-itro {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-image: url("https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2018/07/01153710/benefits-of-working-from-home-1024x512.jpg");
   position: absolute;
   top: 0;
   left: 0px;
@@ -657,7 +658,7 @@ a:hover {
 }
 
 .intro .intro-title {
-  color: #fff;
+  color: #9b1f9f;
   font-weight: 600;
   font-size: 3rem;
 }
